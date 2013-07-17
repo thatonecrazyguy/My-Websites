@@ -1,0 +1,37 @@
+#center {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#main {
+	text-align: center;
+}
+
+#soundcloud {
+	float: left;
+}
+
+body {
+	font-family: HelveticaNeue-Light, Helvetica Neue Light;
+	color: black;
+}
+
+a:link, a:visited {
+	color: black;
+}
+a:active,a:hover {
+	color: #666666;
+}
+
+a {
+	text-decoration: none;
+}
+span {
+	font-weight: bold; word-spacing: 100px;
+}
+
+div.contentStream {
+	padding-top: 25px;
+}
